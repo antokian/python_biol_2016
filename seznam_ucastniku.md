@@ -10,4 +10,5 @@ Filip Nemčko Takifugu rubripes
 Markéta Šafaříková Equus Caballus
 Vojta Tláskal Myotis Lucifugus
 Aneta Kubištová Taeniopygia Guttata
+Jana Pilatova Ovis Aries
 ```
