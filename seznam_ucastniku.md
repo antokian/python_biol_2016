@@ -4,4 +4,5 @@
 ```
 Brenda Tomčalová Dasypus Novemcinctus
 Filip Sedlák Lupus Lupus
+Alexander Nagy Oryctolagus Cuniculus
 ```
