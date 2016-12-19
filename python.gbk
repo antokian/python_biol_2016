@@ -1,0 +1,253 @@
+LOCUS       NC_015812                964 bp    DNA     linear   VRT 21-JUL-2011
+DEFINITION  Python molurus molurus mitochondrion, complete genome.
+ACCESSION   NC_015812 REGION: 2580..3543
+VERSION     NC_015812.1
+DBLINK      Project: 70065
+            BioProject: PRJNA70065
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Python molurus molurus (Indian python)
+  ORGANISM  Python molurus molurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Henophidia; Pythonidae; Python.
+REFERENCE   1  (bases 1 to 964)
+  AUTHORS   Dubey,B., Meganathan,P.R. and Haque,I.
+  TITLE     Complete mitochondrial genome of Python molurus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 964)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUL-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 964)
+  AUTHORS   Dubey,B., Meganathan,P.R. and Haque,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-2010) National DNA Analysis Centre, Central
+            Forensic Science Laboratory, 30, Gorachand Road, Kolkata, West
+            Bengal 700014, India
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to HM581978.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..964
+                     /organism="Python molurus molurus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="molurus"
+                     /db_xref="taxon:621282"
+                     /common="Indian python"
+     gene            1..964
+                     /gene="ND1"
+                     /db_xref="GeneID:10964531"
+     CDS             1..964
+                     /gene="ND1"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:964,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="YP_004733485.1"
+                     /db_xref="GeneID:10964531"
+                     /translation="MMTNILLNIINPLLYIISILIAVAFLTFLERKLLGYMQLRKGPN
+                     LVGPMGLLQPIADGIKLILKEPTKPTLSSPILFTLSPILALTLALTTWAPMPMPFPLT
+                     NMNLALLFIMAMSGMFTYTILWSGWSSNSKYPLMGAMRAVAQIISYEVTLGLIIMSMA
+                     TITGGYSLQSFTTTQEPMWLLLPSWPLAMMWFTSTLAETNRSPFDLTEGESELVSGFN
+                     VEFSAGPFALLFLAEYTNILMMNTLSTMMFLNPGTQNSPLFTINLMTKSILLTTIFLW
+                     VRASYPRFRYDQLMHLLWKQYLPLTLGMCMLNISTTTAFHGTPPQ"
+ORIGIN      
+        1 ataataacca acatcctact caacattatc aacccactac tctacatcat ctccatccta
+       61 atcgcagtag ccttcttaac cttcctggaa cgaaaactac tagggtatat acaactacga
+      121 aaaggcccaa acctagtagg cccaatgggc ctattacaac caatcgcaga cggcattaaa
+      181 ctcatcctaa aagaaccaac aaaacccaca ctctcatccc caatcctatt taccctatcc
+      241 ccaattctag cactcacctt agcattaacc acctgagccc caatacccat accattccca
+      301 ctaactaaca tgaacctagc cttactattc atcatagcca tatcaggtat attcacatac
+      361 acaatcctct gatcaggctg atcatcaaac tcaaaatatc cactaatagg cgccatacga
+      421 gccgtcgcac aaatcatttc atacgaagtc acactaggcc taatcattat atctatagcc
+      481 acaatcacag gaggttactc actacaatct ttcacaacaa cacaagaacc catatgactt
+      541 ctactcccat catgaccatt agccatgatg tgattcacat ccaccctagc agaaactaac
+      601 cgatcaccat tcgatctgac agaaggagaa tccgaactag tctccggatt caatgtagaa
+      661 ttctcagctg gcccatttgc cctactcttc ctagcagaat acacaaacat ccttataata
+      721 aacaccctct ccaccataat attcctaaac ccaggaactc aaaactcacc attattcaca
+      781 attaacctta taacaaaatc catcctcctt acaactatct tcctatgagt ccgagcatcc
+      841 tacccacgat tccgctatga ccaactaata cacctactat ggaaacaata tttaccccta
+      901 accctaggca tatgcatatt aaatatctca accacaacag ccttccacgg caccccacca
+      961 caat
+//
+LOCUS       NC_015812               1794 bp    DNA     linear   VRT 21-JUL-2011
+DEFINITION  Python molurus molurus mitochondrion, complete genome.
+ACCESSION   NC_015812 REGION: 12597..14390
+VERSION     NC_015812.1
+DBLINK      Project: 70065
+            BioProject: PRJNA70065
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Python molurus molurus (Indian python)
+  ORGANISM  Python molurus molurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Henophidia; Pythonidae; Python.
+REFERENCE   1  (bases 1 to 1794)
+  AUTHORS   Dubey,B., Meganathan,P.R. and Haque,I.
+  TITLE     Complete mitochondrial genome of Python molurus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1794)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUL-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1794)
+  AUTHORS   Dubey,B., Meganathan,P.R. and Haque,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-2010) National DNA Analysis Centre, Central
+            Forensic Science Laboratory, 30, Gorachand Road, Kolkata, West
+            Bengal 700014, India
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to HM581978.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1794
+                     /organism="Python molurus molurus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="molurus"
+                     /db_xref="taxon:621282"
+                     /common="Indian python"
+     gene            1..1794
+                     /gene="ND5"
+                     /db_xref="GeneID:10964538"
+     CDS             1..1794
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="YP_004733495.1"
+                     /db_xref="GeneID:10964538"
+                     /translation="MNTITPTMTLAVFLSSTLICKQLLTKPNLNLHYTKNSLMTTFIM
+                     SLIPLTLLLNNENETTLSTSPIINTTTMNINISFILDTPSLTFIPIALFITWSIIEFS
+                     AWYMSTDPYINKFIKYLFIFLIAMLTIITANNMYQLFIGWEGVGIMSFLLIGWWYARS
+                     DANTAALQAIIYNRIGDIGLIMTTAWLLLLSSMNMQELFTQHGIINIIPLIGLSAAAT
+                     GKSAQFGLHPWLPAAMEGPTPVSALLNSGTMGVAGVFLLIRLHPTMQNNKLALTICLI
+                     LGATTTMFAAAAATTQHDIKKIIALSTTSQLGLMMTMIGLNQPTLAFLHMATHSFFKA
+                     LLFLCSGSFIHNLENEQDIRKMGNLNKTMPMTTSTITIASLTLMGMPFLSGFYSKDTI
+                     IETIMNSHTNSWALIMTLIATMLSAMYSMRIIHLTLTGFPRTKQKIHHETKAPTKPIL
+                     RLTFGSIFVGTMTKLSTLRTTTMHPMPTTIKLSALTITLTGIVLSTGLLFLSTKQPPQ
+                     KPKTLNRFFNQLGFFNLLHRGLPMKTLKFGQTTWTELIDLWTLENYGPKGLSNTSIPL
+                     IHMTTQQKNLIKNYMTTFTLTMIITLVLSCP"
+     gene            complement(1790..>1794)
+                     /gene="ND6"
+                     /db_xref="GeneID:10964535"
+     CDS             complement(1790..>1794)
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="YP_004733496.1"
+                     /db_xref="GeneID:10964535"
+                     /translation="MDYVFCLAITCVVVGAVVLSTTPVSYYGVIALMGLVFSCCIMMV
+                     GMGQTFVALVTFVVYLGGLVVVFSYCISVEKDVEDVLKVFTSKIIVSLFVCVGVVACL
+                     CAVFIFGLGEWLVVLGQDCLICVEVNGFGVLYSGGGVGLMVCSWGLLVALFSILIVLS
+                     WYRLGGLRPF"
+ORIGIN      
+        1 atgaatacta tcaccccaac aataacccta gccgtgttcc tatcttcgac actaatctgt
+       61 aagcaactgc tcaccaaacc aaacctcaat ttacattaca caaaaaatag tctaataacc
+      121 acatttatca taagccttat cccactaacc cttctactaa acaacgagaa tgaaactaca
+      181 ctatctacat cacccatcat taacacaacc acaataaata ttaacattag ctttatccta
+      241 gacacaccct cgctaacctt catccctatc gccttattca tcacatgatc tatcatcgaa
+      301 ttctcagcgt ggtatatatc aactgacccc tacatcaaca aattcatcaa ataccttttc
+      361 atcttcctaa tcgcaatact aaccatcatt acagcaaaca acatatacca actattcatc
+      421 ggctgagaag gagtaggcat catatcattc ctgctaatcg gatggtgata tgcccgatca
+      481 gacgcaaaca ccgcagcctt acaagctatt atctacaatc gaatcggcga tattggcctt
+      541 atcataacca cagcatgact tttactacta tcctccataa acatacaaga actcttcaca
+      601 cagcacggga tcatcaacat tattccactt attggcctaa gcgctgcagc cacaggaaaa
+      661 tccgcccaat tcggccttca cccatgactt ccagccgcca tagaaggccc aacaccggta
+      721 tcggctctac tcaactcagg caccataggt gtagcaggcg ttttcctatt aattcgccta
+      781 cacccaacca tacagaataa taaactcgca ctaaccatct gcctgatcct aggggcaaca
+      841 acaactatat tcgcagccgc tgcagcaaca acccaacatg atatcaaaaa gatcatcgca
+      901 ttatcaacaa ccagccaact aggcctaata ataacaataa ttggactaaa ccaaccaaca
+      961 ctagccttcc tacacatagc cacccactcc tttttcaaag cacttctatt cttatgctca
+     1021 ggatccttca ttcacaacct agaaaacgaa caagacatcc gaaaaatagg aaaccttaat
+     1081 aaaactatac caataaccac atccaccatc acaattgcca gcctaacact aataggtata
+     1141 cccttccttt cagggttcta ctctaaagac accatcattg aaaccatcat aaactcccac
+     1201 accaactcat gagccctaat cataacacta atcgcaacca tactatccgc catatacagc
+     1261 atacgtatta ttcacctcac actaacagga tttcctcgta ccaaacaaaa aattcatcat
+     1321 gagacaaagg ccccaaccaa gcctatctta cgacttacct tcggatcaat cttcgtaggc
+     1381 acaatgacta aactctcaac cctacggaca accaccatac accctatacc aacgactatc
+     1441 aaactatcgg cacttaccat taccttaaca ggaattgtcc tatcaacagg cctactattc
+     1501 ctatcaacca aacagccccc acaaaaacca aaaacactca accggttttt taaccaatta
+     1561 ggttttttca atctccttca ccgaggactc ccaataaaaa cattaaaatt tggccaaaca
+     1621 acctggacag aattaatcga cctatgaacc ctagaaaact acggaccaaa aggcttatca
+     1681 aatacatcca ttccactaat tcacataact acacaacaaa aaaatctaat taaaaattat
+     1741 ataaccacct tcaccctaac aataatcatt accttagtac tcagctgccc ctaa
+//
+LOCUS       NC_015812                784 bp    DNA     linear   VRT 21-JUL-2011
+DEFINITION  Python molurus molurus mitochondrion, complete genome.
+ACCESSION   NC_015812 REGION: 9501..10284
+VERSION     NC_015812.1
+DBLINK      Project: 70065
+            BioProject: PRJNA70065
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Python molurus molurus (Indian python)
+  ORGANISM  Python molurus molurus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Lepidosauria; Squamata; Bifurcata; Unidentata; Episquamata;
+            Toxicofera; Serpentes; Henophidia; Pythonidae; Python.
+REFERENCE   1  (bases 1 to 784)
+  AUTHORS   Dubey,B., Meganathan,P.R. and Haque,I.
+  TITLE     Complete mitochondrial genome of Python molurus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 784)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUL-2011) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 784)
+  AUTHORS   Dubey,B., Meganathan,P.R. and Haque,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-2010) National DNA Analysis Centre, Central
+            Forensic Science Laboratory, 30, Gorachand Road, Kolkata, West
+            Bengal 700014, India
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to HM581978.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..784
+                     /organism="Python molurus molurus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="molurus"
+                     /db_xref="taxon:621282"
+                     /common="Indian python"
+     gene            1..784
+                     /gene="COX3"
+                     /db_xref="GeneID:10964539"
+     CDS             1..784
+                     /gene="COX3"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=1
+                     /transl_except=(pos:784,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit III"
+                     /protein_id="YP_004733491.1"
+                     /db_xref="GeneID:10964539"
+                     /translation="MTHQLHQYHMVDPSPWPLTGGLGSLLTASGLALWFHTNTTTVLK
+                     LGLLTLTLTLIQWWRDVVREGTFQGHHTKGVQKNMRYGMMLFIVSEVFFFLGFFWTLY
+                     HVSLVPTPELGAEWPPTGIIPLNPLEVPLLNTAVLLSSGATVTWSHHALMQGNKKEAT
+                     YALMITIALGIYFTALQLSEYMETPFTISDSVYGSLFFVATGFHGFHVMIGTTFLIVC
+                     LARLINFHFTTSHHFGYEAAIWYWHFVDVVWLFLFVSVYWWGS"
+ORIGIN      
+        1 atgacccacc aactccacca ataccacata gtcgacccca gcccttgacc cttaacgggg
+       61 ggcctaggct ccctactcac ggcctcagga ctagccctat gattccatac aaacacaacc
+      121 accgtcttga aactgggcct gcttaccctc accctaaccc tcatccaatg atgacgcgat
+      181 gttgtacgag aaggcacctt ccaaggccac cacacaaaag gagtacaaaa aaacatacgt
+      241 tatggaataa tactgttcat tgtatccgaa gtcttcttct tcctaggttt tttctgaacc
+      301 ctatatcacg taagcctagt ccctacacca gaactaggag ctgaatgacc cccaaccgga
+      361 attatcccac ttaacccact agaagtccca ctactcaaca cagcagtcct actatcatcc
+      421 ggcgccacag ttacatgatc acaccacgca ttaatacaag gcaacaaaaa agaggcaaca
+      481 tacgccctca taatcaccat cgcactaggc atttacttca cagccctcca actctcagaa
+      541 tatatagaga ccccctttac aatctcagac agcgtctacg gctccctatt tttcgtagcc
+      601 acaggtttcc atggatttca cgtgataatc ggaaccacat tcctaatcgt atgtctggca
+      661 cgtcttatca acttccactt cacaacatca caccacttcg ggtacgaagc agcaatttga
+      721 tactgacact tcgtcgacgt ggtttgatta ttcctatttg tctcagtcta ctgatgagga
+      781 tcat
+//
