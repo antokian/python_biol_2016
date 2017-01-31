@@ -20,6 +20,7 @@ Eva Matoušková Sus scrofa
 Ondřej Hřebíček Caenorhabditis elegans
 Kateřina Kholová Cavia porcellus
 Jakub Víglaský Drosophila Melanogaster
+Mário Heleš Sorex araneus
 
 ```
 
